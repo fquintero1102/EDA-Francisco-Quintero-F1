@@ -8,7 +8,7 @@ La F1 tiene muchos datos accesibles y gratis. Para este proyecto utilice kaggle(
 
 Una vez obtenido los datos, con ayuda de Python y sus librería PANDAS,NUMPY, lo primero que hice fue obtener vistas en forma de DATAFRAME para organizar la información, entenderla y empezar a seleccionar los datos relevantes y darle forma a la respuesta de mi hipótesis.
 
-Para la visualización de los datos, utilicé la herramienta “Tableau” (free trial), creando las vistas desde los DataFrame’s, pude lograr las visualizaciones necesarias que auto explicaran los avances del proyecto.
+Para la visualización de los datos, utilicé la herramienta “Tableau” (free trial https://www.tableau.com/es-es/trial/tableau-software?utm_campaign_id=2017049&utm_campaign=Prospecting-CORE-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=ES&utm_country=SoEUR&kw=tableau&adgroup=CTX-Brand-Core-ES-E&adused=469019215359&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=11234415240&cq_net=g&cq_plac=&gclid=Cj0KCQiAgribBhDkARIsAASA5bspzcmjiX34hZA-7iGFQY9SgAWRoZiQaqk-fTSou1ct2Kgx1BGM-aYaApzLEALw_wcB&gclsrc=aw.ds), creando las vistas desde los DataFrame’s, pude lograr las visualizaciones necesarias que auto explicaran los avances del proyecto.
 
 Principales obstáculos que me encontré:
 
